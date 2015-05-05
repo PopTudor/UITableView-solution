@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  UITableViewController.h
 //  uitableview chalange solution
 //
 //  Created by Arcane on 5/6/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface CCUITableViewController : UITableViewController
 
 @end
-
